@@ -12,9 +12,6 @@
 插件
 
 ```sh
-# 备份
-code --list-extensions > extensions.txt
-
 cat extensions.txt | xargs -L 1 code --install-extension
 cat extensions.txt | xargs -L 1 code --uninstall-extension
 ```
