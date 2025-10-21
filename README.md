@@ -13,7 +13,7 @@
 
 ```sh
 cat extensions.txt | xargs -L 1 code --install-extension
-cat extensions.txt | xargs -L 1 code --uninstall-extension
+code --list-extensions | xargs -r -L 1 code --uninstall-extension
 ```
 
 中文
