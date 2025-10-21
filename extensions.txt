@@ -20,6 +20,7 @@ ionutvmi.path-autocomplete
 jakebecker.elixir-ls
 kabie.elixir-zigler
 lacroixdavid1.vscode-format-context-menu
+llvm-vs-code-extensions.vscode-clangd
 luveti.kconfig
 marus25.cortex-debug
 mateuszchudyk.hexinspector
@@ -29,7 +30,6 @@ mcu-debug.peripheral-viewer
 mcu-debug.rtos-views
 mhutchie.git-graph
 ms-ceintl.vscode-language-pack-zh-hans
-ms-vscode.cpptools
 ms-vscode.hexeditor
 pflannery.vscode-versionlens
 pygc.spacetab
