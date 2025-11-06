@@ -108,18 +108,21 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
 
-  // elixir
-  "[elixir]": {
-    "editor.defaultFormatter": "JakeBecker.elixir-ls"
-  },
   "files.associations": {
     "*.heex": "html"
   },
 
-  // erlang
-  "[erlang]": {
-    "editor.tabSize": 2
+  // elixir
+  "[elixir]": {
+    "editor.defaultFormatter": "JakeBecker.elixir-ls"
   },
+
+  // mkdir -p ~/.config/rebar3/
+  // echo -e "{plugins, [erlfmt]}." >> ~/.config/rebar3/rebar.config
+  "[erlang]": {
+    "editor.defaultFormatter": "szTheory.erlang-formatter"
+  },
+  "erlangFormatter.formatter": "erlfmt",
 
   // rust
   "[rust]": {
