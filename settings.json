@@ -54,10 +54,9 @@
   "terminal.integrated.enableMultiLinePasteWarning": "never",
 
   // task
-  "taskExplorer.exclude": ["**/rt-thread/**", "**/packages/**"],
   "task.quickOpen.history": 0,
-  "taskExplorer.showRunningTask": false,
-  "taskExplorer.showLastTasks": false,
+  "taskexplorer.showRunningTask": false,
+  "taskexplorer.specialFolders.showLastTasks": false,
 
   // formatter
   "editor.defaultFormatter": "esbenp.prettier-vscode",
