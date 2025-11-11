@@ -6,8 +6,6 @@ chrmarti.network-proxy-test
 dan-c-underwood.arm
 danielpinto8zz6.c-cpp-project-generator
 davidanson.vscode-markdownlint
-donjayamanne.githistory
-eamodio.gitlens
 ecmel.vscode-html-css
 erlang-language-platform.erlang-language-platform
 esbenp.prettier-vscode
@@ -38,7 +36,6 @@ ms-vscode.hexeditor
 pflannery.vscode-versionlens
 pygc.spacetab
 redhat.vscode-yaml
-redjue.git-commit-plugin
 ritwickdey.liveserver
 rust-lang.rust-analyzer
 shardulm94.trailing-spaces

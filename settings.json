@@ -35,7 +35,6 @@
   "git.confirmSync": false,
   "git.enableSmartCommit": true,
   "git.openRepositoryInParentFolders": "always",
-  "gitlens.ai.enabled": false,
 
   // explorer
   "explorer.confirmDragAndDrop": false,
@@ -55,7 +54,7 @@
 
   // task
   "task.quickOpen.history": 0,
-  "task.autoDetect": "off",
+  "task.autoDetect": "on",
 
   // formatter
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -80,7 +79,7 @@
 
   // workbench
   "workbench.localHistory.enabled": false,
-  "workbench.settings.showAISearchToggle": false,
+  "workbench.settings.showAISearchToggle": true,
 
   // extra
   "breadcrumbs.enabled": true,
