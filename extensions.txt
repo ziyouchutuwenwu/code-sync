@@ -16,6 +16,7 @@ formulahendry.auto-complete-tag
 formulahendry.auto-rename-tag
 iceliu.highlight-icemode
 ionutvmi.path-autocomplete
+isopodlabs.taskviewer
 jakebecker.elixir-ls
 kabie.elixir-zigler
 lacroixdavid1.vscode-format-context-menu
@@ -42,7 +43,6 @@ ritwickdey.liveserver
 rust-lang.rust-analyzer
 shardulm94.trailing-spaces
 shd101wyy.markdown-preview-enhanced
-spmeesseman.vscode-taskexplorer
 steoates.autoimport
 stylelint.vscode-stylelint
 sztheory.erlang-formatter

@@ -55,8 +55,7 @@
 
   // task
   "task.quickOpen.history": 0,
-  "taskexplorer.showRunningTask": false,
-  "taskexplorer.specialFolders.showLastTasks": false,
+  "task.autoDetect": "off",
 
   // formatter
   "editor.defaultFormatter": "esbenp.prettier-vscode",
