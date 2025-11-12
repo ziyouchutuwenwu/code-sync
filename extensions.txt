@@ -1,16 +1,13 @@
 angular.ng-template
 bradlc.vscode-tailwindcss
 bwildeman.tabulous
-chouzz.vscode-better-align
 chrmarti.network-proxy-test
 dan-c-underwood.arm
 danielpinto8zz6.c-cpp-project-generator
 davidanson.vscode-markdownlint
-ecmel.vscode-html-css
 erlang-language-platform.erlang-language-platform
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
-formulahendry.auto-complete-tag
 formulahendry.auto-rename-tag
 iceliu.highlight-icemode
 ionutvmi.path-autocomplete
@@ -52,5 +49,4 @@ vue.volar
 wangweixuan.yithemes
 webfreak.debug
 yzane.markdown-pdf
-ziglang.vscode-zig
 zignd.html-css-class-completion

@@ -25,10 +25,13 @@
   "update.showReleaseNotes": false,
 
   // workbench
+  "workbench.colorTheme": "Yi Dark",
+  "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.enableExperiments": false,
   "workbench.editor.empty.hint": "hidden",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.localHistory.enabled": false,
+  "workbench.settings.showAISearchToggle": true,
 
   // git
   "git.autofetch": true,
@@ -54,7 +57,7 @@
 
   // task
   "task.quickOpen.history": 0,
-  "task.autoDetect": "on",
+  "task.autoDetect": "off",
 
   // formatter
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -64,22 +67,15 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
-
-  // 外观
-  "workbench.colorTheme": "Yi Dark",
   "window.customTitleBarVisibility": "never",
   "window.titleBarStyle": "native",
   "window.controlsStyle": "native",
   "window.dialogStyle": "native",
 
-  // 聊天窗口
+  // chat
   "chat.disableAIFeatures": true,
   "chat.editor.fontFamily": "Monaco",
   "chat.editor.fontSize": 13,
-
-  // workbench
-  "workbench.localHistory.enabled": false,
-  "workbench.settings.showAISearchToggle": true,
 
   // extra
   "breadcrumbs.enabled": true,
@@ -90,16 +86,16 @@
   "security.workspace.trust.enabled": false,
 
   // --------------------------------------------------------------------
-  // html
-  "html.format.wrapLineLength": 0,
-  "liveServer.settings.donotVerifyTags": true,
-  "liveServer.settings.donotShowInfoMsg": true,
-
   // markdown
   "markdown.preview.fontFamily": "Monaco",
   "markdown.preview.fontSize": 13,
   "markdown-preview-enhanced.scrollSync": true,
   "markdown-preview-enhanced.enablePreviewZenMode": false,
+
+  // html
+  "html.format.wrapLineLength": 0,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
 
   // ts
   "typescript.updateImportsOnFileMove.enabled": "always",
