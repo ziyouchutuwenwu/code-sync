@@ -110,8 +110,8 @@
     "editor.defaultFormatter": "JakeBecker.elixir-ls"
   },
 
-  // mkdir -p ~/.config/rebar3/
-  // echo -e "{plugins, [erlfmt]}." >> ~/.config/rebar3/rebar.config
+  // mkdir -p ~/.config/rebar3
+  // echo -e "{plugins, [erlfmt]}." > ~/.config/rebar3/rebar.config
   "[erlang]": {
     "editor.defaultFormatter": "szTheory.erlang-formatter"
   },
