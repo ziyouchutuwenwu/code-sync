@@ -1,6 +1,7 @@
 angular.ng-template
 bradlc.vscode-tailwindcss
 bwildeman.tabulous
+charliermarsh.ruff
 chrmarti.network-proxy-test
 dan-c-underwood.arm
 danielpinto8zz6.c-cpp-project-generator

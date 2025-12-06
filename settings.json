@@ -101,11 +101,19 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
 
-  "files.associations": {
-    "*.heex": "html"
+  // python
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
   },
 
   // elixir
+  "files.associations": {
+    "*.heex": "html"
+  },
   "[elixir]": {
     "editor.defaultFormatter": "JakeBecker.elixir-ls"
   },

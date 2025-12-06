@@ -12,7 +12,13 @@
 插件
 
 ```sh
+# 备份
+code --list-extensions > extensions.txt
+
+# 安装
 cat extensions.txt | xargs -L 1 code --install-extension
+
+# 卸载所有
 code --list-extensions | xargs -r -L 1 code --uninstall-extension
 ```
 
