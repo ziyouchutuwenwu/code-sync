@@ -27,5 +27,11 @@
       "text": "\\\r\n"
     },
     "when": "terminalFocus"
+  },
+  // 全选
+  {
+    "key": "ctrl+shift+a",
+    "command": "workbench.action.terminal.selectAll",
+    "when": "terminalFocus"
   }
 ]
