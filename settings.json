@@ -54,6 +54,7 @@
   "terminal.integrated.fontSize": 13,
   "terminal.integrated.inheritEnv": true,
   "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.initialHint": false,
 
   // task
   "task.quickOpen.history": 0,
@@ -128,5 +129,5 @@
   // rust
   "[rust]": {
     "editor.defaultFormatter": "rust-lang.rust-analyzer"
-  }
+  },
 }
