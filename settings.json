@@ -23,6 +23,10 @@
   "window.newWindowDimensions": "inherit",
   "window.openFilesInNewWindow": "default",
   "update.showReleaseNotes": false,
+  "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "native",
+  "window.controlsStyle": "native",
+  "window.dialogStyle": "native",
 
   // workbench
   "workbench.colorTheme": "Yi Dark",
@@ -61,17 +65,13 @@
   "task.autoDetect": "off",
 
   // formatter
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.printWidth": 120,
   "prettier.htmlWhitespaceSensitivity": "ignore",
   "prettier.bracketSameLine": true,
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
-  "editor.formatOnType": true,
-  "window.customTitleBarVisibility": "never",
-  "window.titleBarStyle": "native",
-  "window.controlsStyle": "native",
-  "window.dialogStyle": "native",
 
   // chat
   "chat.disableAIFeatures": true,
@@ -104,30 +104,29 @@
 
   // python
   "[python]": {
-    "editor.defaultFormatter": "charliermarsh.ruff"
-  },
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
-    "source.organizeImports": "explicit"
+    "editor.defaultFormatter": "charliermarsh.ruff",
   },
 
   // elixir
   "files.associations": {
-    "*.heex": "html"
+    "*.heex": "html",
   },
   "[elixir]": {
-    "editor.defaultFormatter": "JakeBecker.elixir-ls"
+    "editor.defaultFormatter": "JakeBecker.elixir-ls",
   },
 
   // mkdir -p ~/.config/rebar3
   // echo -e "{plugins, [erlfmt]}." > ~/.config/rebar3/rebar.config
   "[erlang]": {
-    "editor.defaultFormatter": "szTheory.erlang-formatter"
+    "editor.defaultFormatter": "szTheory.erlang-formatter",
   },
   "erlangFormatter.formatter": "erlfmt",
 
   // rust
   "[rust]": {
-    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
   },
+
+  // zig
+  "zig.zls.enabled": "on",
 }

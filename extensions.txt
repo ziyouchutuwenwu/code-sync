@@ -44,10 +44,12 @@ sztheory.erlang-formatter
 sztheory.hex-lens
 takumii.markdowntable
 takumii.tabspace
+talljack.vscode-auto-space
 vincaslt.highlight-matching-tag
 vscode-icons-team.vscode-icons
 vue.volar
 wangweixuan.yithemes
 webfreak.debug
 yzane.markdown-pdf
+ziglang.vscode-zig
 zignd.html-css-class-completion
