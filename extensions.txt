@@ -44,7 +44,6 @@ sztheory.erlang-formatter
 sztheory.hex-lens
 takumii.markdowntable
 takumii.tabspace
-talljack.vscode-auto-space
 vincaslt.highlight-matching-tag
 vscode-icons-team.vscode-icons
 vue.volar
