@@ -78,6 +78,9 @@
   "chat.editor.fontFamily": "Monaco",
   "chat.editor.fontSize": 13,
 
+  // 书签
+  "bookmarks.saveBookmarksInProject": true,
+
   // extra
   "breadcrumbs.enabled": true,
   "vsicons.dontShowNewVersionMessage": true,
