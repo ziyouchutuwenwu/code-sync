@@ -1,7 +1,10 @@
+alefragnani.bookmarks
 angular.ng-template
 bradlc.vscode-tailwindcss
 bwildeman.tabulous
 charliermarsh.ruff
+chouzz.vscode-better-align
+christian-kohler.path-intellisense
 chrmarti.network-proxy-test
 dan-c-underwood.arm
 danielpinto8zz6.c-cpp-project-generator
@@ -11,10 +14,10 @@ esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 iceliu.highlight-icemode
-ionutvmi.path-autocomplete
 isopodlabs.taskviewer
 jakebecker.elixir-ls
 kabie.elixir-zigler
+kisstkondoros.vscode-gutter-preview
 lacroixdavid1.vscode-format-context-menu
 llvm-vs-code-extensions.vscode-clangd
 luveti.kconfig
