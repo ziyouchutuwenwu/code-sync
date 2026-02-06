@@ -9,6 +9,7 @@ chrmarti.network-proxy-test
 dan-c-underwood.arm
 danielpinto8zz6.c-cpp-project-generator
 davidanson.vscode-markdownlint
+editorconfig.editorconfig
 erlang-language-platform.erlang-language-platform
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
@@ -18,6 +19,7 @@ isopodlabs.taskviewer
 jakebecker.elixir-ls
 kabie.elixir-zigler
 kisstkondoros.vscode-gutter-preview
+kylemicallefbonnici.dts-lsp
 lacroixdavid1.vscode-format-context-menu
 llvm-vs-code-extensions.vscode-clangd
 luveti.kconfig
@@ -47,6 +49,7 @@ sztheory.erlang-formatter
 sztheory.hex-lens
 takumii.markdowntable
 takumii.tabspace
+twxs.cmake
 vincaslt.highlight-matching-tag
 vscode-icons-team.vscode-icons
 vue.volar
