@@ -105,6 +105,22 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
 
+  // 设备树用 tab
+  "[*.{dts,dtsi,overlay}]": {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 8,
+  },
+
+  // makefile 也是 tab
+  "[makefile]": {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+  },
+  "[*.{mk,makefile}]": {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+  },
+
   // python
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff",
