@@ -50,6 +50,7 @@ sztheory.hex-lens
 takumii.markdowntable
 takumii.tabspace
 twxs.cmake
+vadimcn.vscode-lldb
 vincaslt.highlight-matching-tag
 vscode-icons-team.vscode-icons
 vue.volar
