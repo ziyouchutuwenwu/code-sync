@@ -102,8 +102,7 @@
   "liveServer.settings.donotShowInfoMsg": true,
 
   // ts
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "javascript.updateImportsOnFileMove.enabled": "always",
+  "js/ts.updateImportsOnFileMove.enabled": "always",
 
   // 设备树用 tab
   "[*.{dts,dtsi,overlay}]": {
