@@ -39,7 +39,6 @@ ms-vscode.hexeditor
 pflannery.vscode-versionlens
 pygc.spacetab
 redhat.vscode-yaml
-ritwickdey.liveserver
 rust-lang.rust-analyzer
 shardulm94.trailing-spaces
 shd101wyy.markdown-preview-enhanced
