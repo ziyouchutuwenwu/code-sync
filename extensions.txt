@@ -2,6 +2,7 @@ alefragnani.bookmarks
 angular.ng-template
 bradlc.vscode-tailwindcss
 bwildeman.tabulous
+calvinqkd.mkdownformat
 charliermarsh.ruff
 chouzz.vscode-better-align
 christian-kohler.path-intellisense
@@ -52,7 +53,6 @@ twxs.cmake
 vadimcn.vscode-lldb
 vincaslt.highlight-matching-tag
 vscode-icons-team.vscode-icons
-vue.volar
 wangweixuan.yithemes
 webfreak.debug
 yzane.markdown-pdf

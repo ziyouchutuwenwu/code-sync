@@ -98,8 +98,6 @@
 
   // html
   "html.format.wrapLineLength": 0,
-  "liveServer.settings.donotVerifyTags": true,
-  "liveServer.settings.donotShowInfoMsg": true,
 
   // ts
   "js/ts.updateImportsOnFileMove.enabled": "always",
