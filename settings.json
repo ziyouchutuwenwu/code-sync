@@ -27,6 +27,7 @@
   "window.titleBarStyle": "native",
   "window.controlsStyle": "native",
   "window.dialogStyle": "native",
+  "window.commandCenter": false,
 
   // workbench
   "workbench.colorTheme": "Yi Dark",
@@ -36,6 +37,10 @@
   "workbench.editor.empty.hint": "hidden",
   "workbench.localHistory.enabled": false,
   "workbench.settings.showAISearchToggle": true,
+  // 边缘圆角
+  "workbench.experimental.modernUI": false,
+  "workbench.activityBar.location": "default",
+  "workbench.layoutControl.enabled": false,
 
   // git
   "git.autofetch": true,
@@ -105,44 +110,45 @@
   // 设备树用 tab
   "[*.{dts,dtsi,overlay}]": {
     "editor.insertSpaces": false,
-    "editor.tabSize": 8,
+    "editor.tabSize": 8
   },
 
   // makefile 也是 tab
   "[makefile]": {
     "editor.insertSpaces": false,
-    "editor.tabSize": 4,
+    "editor.tabSize": 4
   },
   "[*.{mk,makefile}]": {
     "editor.insertSpaces": false,
-    "editor.tabSize": 4,
+    "editor.tabSize": 4
   },
 
   // python
   "[python]": {
-    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.defaultFormatter": "charliermarsh.ruff"
   },
 
   // elixir
   "files.associations": {
-    "*.heex": "html",
+    "*.heex": "html"
   },
   "[elixir]": {
-    "editor.defaultFormatter": "JakeBecker.elixir-ls",
+    "editor.defaultFormatter": "JakeBecker.elixir-ls"
   },
 
   // mkdir -p ~/.config/rebar3
   // echo -e "{plugins, [erlfmt]}." > ~/.config/rebar3/rebar.config
   "[erlang]": {
-    "editor.defaultFormatter": "szTheory.erlang-formatter",
+    "editor.defaultFormatter": "szTheory.erlang-formatter"
   },
   "erlangFormatter.formatter": "erlfmt",
 
   // rust
   "[rust]": {
-    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
   },
 
   // zig
   "zig.zls.enabled": "on",
+  "lldb.suppressUpdateNotifications": true
 }
